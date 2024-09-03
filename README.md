@@ -9,7 +9,11 @@ Open-category 3D object reconstruction from a single-view image in real time
 
 
 
-https://github.com/user-attachments/assets/b6cde3c7-c004-4161-b8d7-7619e12379ad
+
+
+https://github.com/user-attachments/assets/ce5a47e6-a1fc-4f8f-800e-d312ea6d8ab5
+
+
 
 
 
