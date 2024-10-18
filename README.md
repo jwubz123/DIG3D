@@ -27,3 +27,12 @@ If you find our work useful in your research, please consider citing:
   journal={arXiv preprint arXiv:2404.16323},
   year={2024}
 }
+```
+Please also check our another project for random number of input image reconstruction [UNIG](https://arxiv.org/abs/2410.13195)). The code will also be released soon.
+```bibtex
+@article{wu2024unig,
+  title={UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction},
+  author={Wu, Jiamin and Liu, Kenkun and Shi, Yukai and Jiang, Xiaoke and Yao, Yuan and Zhang, Lei},
+  journal={arXiv preprint arXiv:2410.13195},
+  year={2024}
+}
